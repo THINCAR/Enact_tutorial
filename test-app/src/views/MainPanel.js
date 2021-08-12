@@ -7,7 +7,17 @@ const MainPanel = kind({
 
 	render: (props) => (
 		<Panel {...props}>
-			<Header title="Hello world!" />
+			<Header title="Hello THINCAR" />
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
+			<Button>Click me</Button>
 			<Button>Click me</Button>
 		</Panel>
 	)
